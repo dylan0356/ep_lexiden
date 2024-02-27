@@ -1,0 +1,10 @@
+{
+    "parts": [
+        {
+            "name": "main",
+            "server_hooks": [
+                "exportHtmlAdditionalTagsWithData": "index.js"
+            ]
+        }
+    ]
+}
